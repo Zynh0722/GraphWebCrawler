@@ -1,0 +1,22 @@
+{
+  "name": "graphwebcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zynh0722/GraphWebCrawler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zynh0722/GraphWebCrawler/issues"
+  },
+  "homepage": "https://github.com/Zynh0722/GraphWebCrawler#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
