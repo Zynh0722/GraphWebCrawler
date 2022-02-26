@@ -1,1 +1,4 @@
 # GraphWebCrawer
+
+To run;
+node app.js
